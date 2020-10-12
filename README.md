@@ -25,7 +25,7 @@ npm start
 
 ## **:hammer: DEPLOY**
 
-[![Deploy with Vercel](https://vercel.com/button?color=000)](LinkASerInserido)
+[![Deploy with Vercel](https://vercel.com/button?color=000)](https://happy-inky.vercel.app/)
 
 <br />
 
