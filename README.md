@@ -1,44 +1,38 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+h1 align="center">
+    <img alt="HAppy" src="./src/images/Logo.svg" width="300px"/>
+</h1>
 
-## Available Scripts
+</div>
 
-In the project directory, you can run:
+<br/>
 
-### `yarn start`
+## **:rocket: OBJETIVO**
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<strong>HAppy</strong> é uma plataforma que tem como seu objetivo, auxiliar pessoas que queiram ajudar, visitar ou conhecer orfanatos na sua cidade. Através dela, os interessados podem entram em contato com os orfanatos cadastrados e obter maiores informações sobre a intituição, podendo entrar em contato, visitar as crianças e muito mais! O projeto foi implementado durante a [Next Level Week 3](https://nextlevelweek.com/) disponibilizada pela [Rocketseat](https://rocketseat.com.br/)!
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<br />
 
-### `yarn test`
+## **:computer: COMO RODAR O PROJETO**
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Após baixar o projeto, acesse ele via seu terminal rode os comandos:
 
-### `yarn build`
+```sh
+npm install
+npm start
+```
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br />
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## **:hammer: DEPLOY**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[![Deploy with Vercel](https://vercel.com/button?color=000)](LinkASerInserido)
 
-### `yarn eject`
+<br />
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## **:page_with_curl: LICENÇA**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h3 align="center">
+  Feito com 💙 por <a href="https://www.linkedin.com/in/welintondiniz/"> Welinton Diniz </a>
+</h3>
