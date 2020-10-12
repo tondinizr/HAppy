@@ -1,4 +1,4 @@
-h1 align="center">
+<h1 align="center">
     <img alt="HAppy" src="./src/images/Logo.svg" width="300px"/>
 </h1>
 
